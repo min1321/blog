@@ -44,12 +44,12 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Firstname Lastname"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  name = "Sukmin Seo"
+  bio = "안녕하세요 min1321's 개발블로그입니다."
+  job = "Deep learning Engineer"
+  location = "Korea"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "mellonggo@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -97,13 +97,13 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/min1321"
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
+  identifier = "notion"
+  name = "Notion"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  url = "https://www.notion.so/4e5450cc96e04326a8377fbffc788376"
 
 [[menu.misc]]
   weight = 1
