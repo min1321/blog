@@ -12,6 +12,7 @@ tags:
 - dog breed
 keywords:
 - Dog Breed dataset
+thumbnailImagePosition: left
 thumbnailImage: //min1321.github.io/images/dogbreed/Chihuahua.jpg
 ---
 
