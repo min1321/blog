@@ -13,7 +13,7 @@ tags:
 keywords:
 - 문화체육부장관상
 thumbnailImagePosition: left
-thumbnailImage: //images/NIKL/NIKLimage.jpg
+thumbnailImage: //min1321.github.io/images/NIKL/NIKLimage.jpg
 ---
 
 <!--more-->
